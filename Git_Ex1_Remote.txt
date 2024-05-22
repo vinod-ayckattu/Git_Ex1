@@ -1,3 +1,2 @@
 This file is created at remote
-
-No it is edited at local
+This new line is added at local 
