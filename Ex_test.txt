@@ -8,6 +8,6 @@ Changes in First Branch
 
 New Line
 
-Thsi is the New change at New Branch
+Thsi is the New change at New Branch only
 
 
